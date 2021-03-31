@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <string name="txtSplashTitle">MUSIC PLAYER</string>
+    <string name="image1">linkinpark </string>
+    <string name="image2">system of down </string>
+    <string name="btnplaylabel">play system of down song</string>
+    <string name="btnplay1label">play Skin to Bone</string>
+
+
+</resources>
